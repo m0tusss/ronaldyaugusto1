@@ -1,8 +1,7 @@
-### Olá! Eu sou o Rony! 👋
+### Hello, I am Rony 👋
 
-✨  Atualmente estudando Python, HTML, CSS e JS
+✨  Studying Python, HTML, CSS and JS
 
-🔥 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/ronaldyaugusto1">
